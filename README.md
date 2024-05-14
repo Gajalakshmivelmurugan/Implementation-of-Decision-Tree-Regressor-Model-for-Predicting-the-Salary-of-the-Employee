@@ -67,26 +67,33 @@ dt.predict([[5,6]])
 
 ## Output:
 data.head()
-![329870001-06d30639-ce5b-4179-91a2-5fd89b55cc0e](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/810ea326-83fe-4ff7-b17c-1678f9c3d24c)
+
+![329870001-06d30639-ce5b-4179-91a2-5fd89b55cc0e](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/80cb9471-1d5e-46f3-9a5a-552ad2a83fc7)
+
 
 data.info()
-![329870027-b7659271-4756-46d1-9c2f-78fec8155e1f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/d86d51d4-d6c6-4076-abdf-36a9930b5b86)
+
+![329870027-b7659271-4756-46d1-9c2f-78fec8155e1f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/dabc5962-e82a-4637-bd0f-c048738fef78)
 
 Isnull() & sum() function
-![329870052-d8df742a-98c3-4b70-9c51-bdb594f675b1](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/f278f156-c266-4d26-b4df-d100e75f5ed5)
+![329870052-d8df742a-98c3-4b70-9c51-bdb594f675b1](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/9b9246e6-811b-44c8-8177-72afae82e435)
+
 
 data.head() for position
-![329870085-eaab359d-2507-4a53-bb4b-03dfb2095926](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/b4939fa7-0f86-44f0-9a65-f16009ba4c81)
+![329870085-eaab359d-2507-4a53-bb4b-03dfb2095926](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/149c346b-842f-4614-be48-676928750554)
+
 
 MSE value
+![329870101-8ec7c229-df4f-4482-971c-0171d02bed1c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/1a45c0e7-8eac-4ce2-a7d1-327d0c11fbe2)
 
-![329870101-8ec7c229-df4f-4482-971c-0171d02bed1c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/68b1b78c-1ab8-4a95-b195-053199cd721f)
 
 R2 value
-![329870124-a9fa017c-a877-4b49-9b65-06328732ce8c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/447cfd62-94ae-4525-bba4-2e003fa2a04f)
+![329870124-a9fa017c-a877-4b49-9b65-06328732ce8c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/ad405740-2b0f-40cf-ac2b-7fc9f5de72de)
+
 
 Prediction value
-![329870158-89982a65-f91e-4afc-baf4-010de15b946f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/d8b1a7c1-9cd5-42ac-b9f8-9b726226b95c)
+![329870158-89982a65-f91e-4afc-baf4-010de15b946f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/5a4850fe-747a-44e3-a69c-b19110f85206)
+
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
