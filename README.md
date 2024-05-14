@@ -1,4 +1,4 @@
-![329870101-8ec7c229-df4f-4482-971c-0171d02bed1c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/554a7570-b6b4-434d-8a07-a3eda50f054d)# Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
+# Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
@@ -76,22 +76,28 @@ data.info()
 ![329870027-b7659271-4756-46d1-9c2f-78fec8155e1f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/dabc5962-e82a-4637-bd0f-c048738fef78)
 
 Isnull() & sum() function
+
+
 ![329870052-d8df742a-98c3-4b70-9c51-bdb594f675b1](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/9b9246e6-811b-44c8-8177-72afae82e435)
 
 
 data.head() for position
+
 ![329870085-eaab359d-2507-4a53-bb4b-03dfb2095926](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/149c346b-842f-4614-be48-676928750554)
 
 
 MSE value
+
 ![329870101-8ec7c229-df4f-4482-971c-0171d02bed1c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/1a45c0e7-8eac-4ce2-a7d1-327d0c11fbe2)
 
 
 R2 value
+
 ![329870124-a9fa017c-a877-4b49-9b65-06328732ce8c](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/ad405740-2b0f-40cf-ac2b-7fc9f5de72de)
 
 
 Prediction value
+
 ![329870158-89982a65-f91e-4afc-baf4-010de15b946f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144871940/5a4850fe-747a-44e3-a69c-b19110f85206)
 
 
